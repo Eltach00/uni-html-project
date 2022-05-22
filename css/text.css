@@ -1,0 +1,108 @@
+#text {
+	width: 900px;
+	margin: 30px auto;
+	padding: 20px 40px;
+	font: 17px Arial;
+	outline: 0px solid #000000;
+	background-color: #AFEEEE;
+	border: 2px solid #FFFFFF;
+	border-radius: 20px;
+}
+h2 {
+	font: bold 20px Arial;
+	text-align: center;
+}
+h3 {
+	padding: 20px;
+	font: bold 25px Arial;
+	text-align: center;
+	text-shadow: 1px 1px 1px #fff;
+}
+p {
+	text-indent: 30px;
+	font: 17px Arial;
+	text-align: center;
+	}
+table {
+	width: 600px;
+    margin: auto; 
+	border-collapse: collapse; /* Убираем двойные линии между ячейками */
+}
+TD, TH {
+    padding: 15px 15px 15px 15px; /* Поля вокруг содержимого таблицы */
+    border: 2px solid black; /* Параметры рамки */
+	text-align: center;
+	font: bold 16px Arial;
+   }
+a {
+	text-decoration: none;
+	}
+a:link {
+	color: black;
+	}
+a:visited {
+	color: black;
+	}
+a:hover {
+	color: blue;
+	}
+.top {
+width:100px;
+border:1px solid #fff;
+background-color: #AFEEEE;
+text-align:center;
+padding:5px;
+position:fixed;
+bottom:50px;
+right:40px;
+text-decoration: none;
+font-family:verdana;
+font-size:13px;
+font-weight: bold ;
+border-radius: 5px;
+}
+.os {
+width:100px;
+border:1px solid #fff;
+background-color: #AFEEEE;
+text-align:center;
+padding:5px;
+position:fixed;
+bottom:150px;
+left:40px;
+text-decoration: none;
+font-family:verdana;
+font-size:13px;
+font-weight: bold ;
+border-radius: 5px;
+}
+.file {
+width:100px;
+border:1px solid #fff;
+background-color: #AFEEEE;
+text-align:center;
+padding:5px;
+position:fixed;
+bottom:100px;
+left:40px;
+text-decoration: none;
+font-family:verdana;
+font-size:13px;
+font-weight: bold ;
+border-radius: 5px;
+}
+.raz {
+width:100px;
+border:1px solid #fff;
+background-color: #AFEEEE;
+text-align:center;
+padding:5px;
+position:fixed;
+bottom:50px;
+left:40px;
+text-decoration: none;
+font-family:verdana;
+font-size:13px;
+font-weight: bold ;
+border-radius: 5px;
+}

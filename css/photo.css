@@ -1,0 +1,125 @@
+.pic {
+	width: 900px;
+	height: 520px;
+	background-repeat: no-repeat;
+	background-position: center;
+}
+/* Winrar */
+#pic1{
+	background-image: url(../pictures/winrar1.png); 
+}
+#pic2{
+	background-image: url(../pictures/winrar2.png); 
+}
+#pic3{
+	background-image: url(../pictures/winrar3.png); 
+}
+#pic4{
+	background-image: url(../pictures/winrar4.png); 
+}
+#pic6{
+	background-image: url(../pictures/winrar6.png); 
+}
+/* Total Commander */
+#tot1{
+	background-image: url(../pictures/total1.png); 
+}
+#tot3{
+	background-image: url(../pictures/total3.png); 
+}
+#tot4{
+	background-image: url(../pictures/total4.png); 
+}
+#tot5{
+	background-image: url(../pictures/total5.png); 
+}
+#tot6{
+	background-image: url(../pictures/total6.png); 
+}
+/* 7zip */
+#z1{
+	background-image: url(../pictures/z1.png); 
+}
+#z2{
+	background-image: url(../pictures/z2.png); 
+}
+#z8{
+	background-image: url(../pictures/z8.png); 
+}
+/* Work with Registry */
+#w3{
+	background-image: url(../pictures/w3.png); 
+}
+#w4{
+	background-image: url(../pictures/w4.png); 
+}
+#w5{
+	background-image: url(../pictures/w5.png); 
+}
+/* Reg Organiser */
+#r2{
+	background-image: url(../pictures/r2.png); 
+}
+/* CCleaner */
+.cc {
+	width: 900px;
+	height: 620px;
+	background-repeat: no-repeat;
+	background-position: center;
+}
+#cc1{
+	background-image: url(../pictures/cc1.png); 
+}
+#cc5{
+	background-image: url(../pictures/cc5.png); 
+}
+/* FreeCommander */
+#f1{
+	background-image: url(../pictures/free1.png); 
+}
+#f2{
+	background-image: url(../pictures/free2.png); 
+}
+#f3{
+	background-image: url(../pictures/free3.png); 
+}
+#f4{
+	background-image: url(../pictures/free4.png); 
+}
+/* XYplorer */
+#xy1{
+	background-image: url(../pictures/xy1.png); 
+}
+#xy2{
+	background-image: url(../pictures/xy2.png); 
+}
+#xy5{
+	background-image: url(../pictures/xy5.png); 
+}
+#xy6{
+	background-image: url(../pictures/xy5.png); 
+}
+/* 7-zip */
+#z3{
+	background-image: url(../pictures/z3.png); 
+}
+/* Reg Organiser */
+#r1{
+	background-image: url(../pictures/r1.png); 
+}
+#r3{
+	background-image: url(../pictures/r3.png); 
+}
+#r4{
+	background-image: url(../pictures/r4.png); 
+}
+#r5{
+	background-image: url(../pictures/r5.png); 
+}
+#r6{
+	background-image: url(../pictures/r6.png); 
+}
+#r7{
+	background-image: url(../pictures/r7.png); 
+}
+
